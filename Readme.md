@@ -17,15 +17,21 @@ Convert to array from array like.
 ```js
 var toArray = require('@micro-js/to-array')
 
+args(1, 2) // => [1, 2]
+
+function args () {
+  return toArray(arguments)
+}
+
 ```
 
 ## API
 
-### toArray(arg)
+### toArray(arr)
 
-- `arg` -
+- `arr` - array like
 
-**Returns:**
+**Returns:** array
 
 ## License
 
