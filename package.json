@@ -2,7 +2,7 @@
   "name": "@micro-js/to-array",
   "description": "Convert to array from array like.",
   "repository": "git://github.com/micro-js/to-array.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
