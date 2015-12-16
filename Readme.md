@@ -10,12 +10,12 @@ Convert to array from array like.
 
 ## Installation
 
-    $ npm install @micro-js/to-array
+    $ npm install @f/to-array
 
 ## Usage
 
 ```js
-var toArray = require('@micro-js/to-array')
+var toArray = require('@f/to-array')
 
 args(1, 2) // => [1, 2]
 
@@ -43,5 +43,5 @@ MIT
 [git-url]: https://github.com/micro-js/to-array
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/to-array.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/to-array
+[npm-image]: https://img.shields.io/npm/v/@f/to-array.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/to-array

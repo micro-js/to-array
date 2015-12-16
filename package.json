@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/to-array",
+  "name": "@f/to-array",
   "description": "Convert to array from array like.",
   "repository": "git://github.com/micro-js/to-array.git",
   "version": "1.0.0",
